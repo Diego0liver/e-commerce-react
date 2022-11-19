@@ -5,4 +5,4 @@ usei o <b>React Router</b>, usei o mesmo tambem para proteger as rotas do painel
 Utilizei <b>axios</b> para manipular a API. E tambem o <b>styled-components</b> para usar css.
 O carrinho de compras do sistema foi feito em <b>react-use-cart</b> a para criar novo produto usei <b>UUID</b>.
 A aplicação e totalmente responsivo.
-
+Video da aplicação => https://www.linkedin.com/posts/diego-oliveira-fonseca_css-reactjs-react-activity-6999821608529879040-H-jB?utm_source=share&utm_medium=member_desktop
